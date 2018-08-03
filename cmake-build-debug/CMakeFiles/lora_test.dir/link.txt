@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lora_test.dir/main.cpp.o CMakeFiles/lora_test.dir/main1.cpp.o CMakeFiles/lora_test.dir/Data2File.cpp.o  -o lora_test 
